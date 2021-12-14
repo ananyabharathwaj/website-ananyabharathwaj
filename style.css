@@ -1,3 +1,36 @@
+nav {
+  list-style-type: none;
+  background-color: black;
+  width: 100%;
+  left: 0;
+  top: 0;
+  margin: 0; 
+  overflow: hidden;
+  position: fixed;
+  padding: 15px 30px;
+  
+  
+}
+
+li { 
+float: left
+
+  }
+ 
+li a {
+  display: black;
+  color: white;
+  text-decoration: none;
+   padding: 40px 80px;
+ 
+}
+
+li a:hover {
+  
+  background-color: antiquewhite;
+  color: black;
+}
+
 body {
 background-color: orange;
 }
